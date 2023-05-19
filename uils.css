@@ -1,0 +1,37 @@
+.flex-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.align-left{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    }
+
+.btn{
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    text-align: center;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;;
+}
+
+.login-btn{
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+    right: 10px;
+    
+}
+
+.text-hover{
+    font-size: large;
+}
+
+h2{
+    padding-top: 20px;
+    padding-left: 30px;
+}
